@@ -12,7 +12,8 @@ A modern, engaging Snake Game built using Python and the `pygame` library. Navig
 - **Executable Application:** Play the game as a standalone Windows application without needing Python installed.
 
 ---
-
+### Game Interface
+![Game Screenshot ](images/game_screenshot1.png)
 ## How to Play
 1. Launch the game from the executable or by running the Python script.
 2. Use the **arrow keys** to move the snake:
