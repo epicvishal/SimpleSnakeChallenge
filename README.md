@@ -13,7 +13,8 @@ A modern, engaging Snake Game built using Python and the `pygame` library. Navig
 
 ---
 ### Game Interface
-![Game Screenshot ]([[Image](https://github.com/user-attachments/assets/8953785b-3018-4641-aac6-6d85e816a901)](https://github.com/epicvishal/SimpleSnakeChallenge/blob/947031f9cad5ca88cc850f9de62373764cc3dfef/game%20ss.png))
+![Alt text](image-path-or-URL "Optional Title")
+
 ## How to Play
 1. Launch the game from the executable or by running the Python script.
 2. Use the **arrow keys** to move the snake:
