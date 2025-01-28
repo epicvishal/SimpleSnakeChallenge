@@ -16,7 +16,7 @@ A modern, engaging Snake Game built using Python and the `pygame` library. Navig
 ![Image](https://github.com/user-attachments/assets/8953785b-3018-4641-aac6-6d85e816a901)
 
 ### Game Over Screen
-
+![Image](https://github.com/user-attachments/assets/b780bcd2-7eab-4c7b-99cf-a89d6a3178b5)
 
 ## How to Play
 1. Launch the game from the executable or by running the Python script.
