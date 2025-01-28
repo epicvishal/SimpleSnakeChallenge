@@ -13,7 +13,7 @@ A modern, engaging Snake Game built using Python and the `pygame` library. Navig
 
 ---
 ### Game Interface
-![Alt text](image-path-or-URL "Optional Title")
+![Alt text]([image-path-or-URL "Optional Title"](https://github.com/epicvishal/SimpleSnakeChallenge/blob/c64ac42bac16ab6ff38dd07d8522bf45172dba06/game%20ss.png))
 
 ## How to Play
 1. Launch the game from the executable or by running the Python script.
